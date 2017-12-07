@@ -1,0 +1,9 @@
+= URLDownloader
+Doc Writer <doc.writer@asciidoctor.org>
+v1.0, 2014-01-01
+:toc:
+:imagesdir: assets/images
+:homepage: http://asciidoctor.org
+
+This application, written in Java, implements a tool to download a set of web pages in parallel.  The app was originally
+created as part of an interview process.
